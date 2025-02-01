@@ -3,3 +3,4 @@ dev.duckdb
 logs/
 pyproject.toml
 setup.py
+__pycache__/
