@@ -1,5 +1,5 @@
 dagster-env/
-dev.duckdb/
+dev.duckdb
 logs/
-pyproject.tom/
-setup.py/
+pyproject.tom
+setup.py
